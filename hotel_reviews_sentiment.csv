@@ -1,0 +1,501 @@
+Review,Sentiment,Rating
+Bad dirty cold slow cold dirty worst worst rude.,Negative,2.2
+Amazing spacious helpful comfortable clean great delicious helpful.,Positive,4.5
+Excellent amazing delicious amazing perfect.,Positive,4.0
+Perfect clean comfortable perfect clean helpful helpful.,Positive,4.2
+Worst noisy bad worst worst cold.,Negative,1.7
+Okay typical satisfactory normal typical.,Neutral,3.5
+Helpful great delicious clean friendly comfortable friendly delicious.,Positive,4.6
+Spacious helpful helpful clean amazing perfect perfect great.,Positive,4.7
+Amazing helpful helpful clean spacious perfect excellent.,Positive,4.5
+Delicious comfortable helpful great delicious friendly comfortable amazing.,Positive,4.6
+Friendly perfect delicious friendly clean excellent delicious perfect friendly clean.,Positive,4.3
+Amazing great comfortable amazing spacious helpful perfect comfortable.,Positive,4.5
+Slow cold rude slow noisy bad noisy.,Negative,2.1
+Excellent perfect friendly clean friendly helpful.,Positive,4.9
+Mediocre satisfactory fine satisfactory typical standard average standard fine mediocre.,Neutral,3.2
+Cold terrible noisy rude smelly slow cold.,Negative,1.1
+Bad cold worst noisy worst terrible bad uncomfortable.,Negative,1.2
+Friendly delicious amazing clean perfect excellent great helpful comfortable.,Positive,4.0
+Smelly bad terrible bad smelly smelly.,Negative,2.0
+Worst worst rude cold terrible uncomfortable bad smelly.,Negative,1.5
+Rude smelly slow noisy cold uncomfortable.,Negative,1.8
+Mediocre okay decent normal typical normal average normal.,Neutral,3.2
+Uncomfortable uncomfortable rude rude smelly dirty terrible.,Negative,1.1
+Dirty bad uncomfortable noisy cold worst.,Negative,1.6
+Smelly slow terrible cold dirty noisy smelly worst rude noisy.,Negative,1.3
+Delicious amazing helpful helpful perfect excellent spacious excellent.,Positive,4.4
+Friendly clean amazing helpful amazing excellent excellent comfortable delicious comfortable.,Positive,4.2
+Regular typical typical average mediocre satisfactory mediocre mediocre.,Neutral,3.7
+Helpful friendly excellent helpful helpful spacious.,Positive,4.2
+Standard satisfactory normal standard mediocre mediocre standard.,Neutral,3.8
+Smelly rude rude noisy slow.,Negative,1.6
+Noisy smelly dirty rude uncomfortable slow worst smelly uncomfortable slow.,Negative,2.3
+Fine okay decent decent decent fine.,Neutral,3.4
+Satisfactory typical okay decent satisfactory mediocre average normal typical typical.,Neutral,3.6
+Friendly spacious perfect perfect spacious helpful delicious perfect.,Positive,4.8
+Cold noisy bad slow dirty terrible uncomfortable terrible dirty noisy.,Negative,1.8
+Helpful clean delicious clean helpful comfortable friendly delicious.,Positive,4.5
+Great clean clean spacious comfortable.,Positive,4.5
+Typical mediocre satisfactory standard mediocre.,Neutral,3.4
+Delicious spacious excellent perfect perfect amazing delicious spacious amazing.,Positive,4.0
+Helpful excellent clean clean amazing helpful helpful helpful perfect comfortable.,Positive,4.4
+Spacious clean clean spacious excellent perfect clean.,Positive,4.6
+Delicious helpful clean perfect excellent helpful helpful excellent.,Positive,4.6
+Average standard normal regular normal standard fine okay fine.,Neutral,3.6
+Great clean perfect friendly great amazing comfortable clean delicious spacious.,Positive,4.7
+Satisfactory decent okay standard average standard normal average.,Neutral,3.9
+Bad dirty worst rude cold bad rude bad dirty.,Negative,1.4
+Standard standard standard normal satisfactory okay decent satisfactory.,Neutral,3.1
+Okay regular typical mediocre fine standard fine decent mediocre regular.,Neutral,3.1
+Cold worst smelly rude cold.,Negative,1.7
+Normal fine satisfactory standard decent standard normal fine mediocre mediocre.,Neutral,3.7
+Okay mediocre satisfactory okay typical.,Neutral,2.9
+Spacious comfortable amazing delicious great comfortable spacious delicious delicious friendly.,Positive,4.8
+Excellent excellent delicious excellent perfect clean comfortable clean perfect.,Positive,4.4
+Decent mediocre regular okay decent average okay typical regular.,Neutral,3.4
+Uncomfortable bad slow worst slow bad rude smelly.,Negative,1.9
+Bad slow worst smelly bad rude uncomfortable uncomfortable cold smelly.,Negative,1.6
+Friendly perfect excellent delicious helpful.,Positive,4.5
+Cold rude worst slow cold slow smelly dirty.,Negative,1.6
+Average decent mediocre satisfactory okay okay average.,Neutral,2.7
+Amazing helpful great perfect comfortable friendly comfortable helpful spacious delicious.,Positive,4.4
+Rude uncomfortable slow noisy uncomfortable.,Negative,1.1
+Perfect friendly great spacious great excellent helpful great delicious excellent.,Positive,4.4
+Noisy worst dirty bad cold worst slow slow dirty.,Negative,1.9
+Cold dirty slow terrible uncomfortable worst dirty.,Negative,1.9
+Worst terrible smelly uncomfortable terrible uncomfortable cold smelly.,Negative,2.0
+Smelly uncomfortable dirty bad cold.,Negative,1.1
+Standard standard typical standard decent.,Neutral,3.4
+Standard regular typical normal average decent typical normal.,Neutral,3.0
+Okay regular standard regular decent okay typical okay okay.,Neutral,3.1
+Normal decent mediocre standard typical average normal typical mediocre average.,Neutral,3.7
+Great great clean delicious helpful spacious clean.,Positive,4.0
+Delicious friendly great friendly friendly friendly amazing clean spacious.,Positive,4.6
+Average regular average typical standard regular.,Neutral,3.4
+Normal typical decent typical regular satisfactory decent regular decent fine.,Neutral,3.1
+Amazing amazing excellent amazing great comfortable.,Positive,4.2
+Terrible cold dirty noisy slow terrible rude.,Negative,1.4
+Satisfactory normal fine typical fine normal typical okay typical.,Neutral,3.7
+Worst worst terrible bad smelly dirty slow bad noisy.,Negative,1.7
+Fine decent fine standard typical.,Neutral,3.0
+Delicious amazing clean delicious friendly perfect.,Positive,4.4
+Smelly noisy bad cold uncomfortable dirty slow uncomfortable.,Negative,2.0
+Bad rude worst cold uncomfortable dirty bad rude.,Negative,1.2
+Delicious clean perfect perfect delicious perfect helpful.,Positive,4.4
+Cold slow cold worst terrible.,Negative,1.9
+Regular regular average standard decent decent typical fine.,Neutral,3.8
+Helpful comfortable delicious friendly delicious comfortable spacious helpful friendly.,Positive,4.3
+Dirty uncomfortable slow cold dirty dirty worst bad.,Negative,1.5
+Standard typical average average decent.,Neutral,3.1
+Average okay typical fine standard.,Neutral,3.4
+Noisy terrible dirty slow terrible terrible worst rude worst dirty.,Negative,1.5
+Worst rude smelly bad worst slow rude.,Negative,1.8
+Fine normal typical fine mediocre standard satisfactory standard.,Neutral,3.6
+Normal regular normal okay okay fine normal decent okay.,Neutral,3.5
+Fine mediocre regular average mediocre standard regular.,Neutral,3.2
+Mediocre normal decent mediocre typical satisfactory regular.,Neutral,3.7
+Regular regular normal decent standard fine average fine regular average.,Neutral,3.3
+Amazing helpful great perfect comfortable great.,Positive,4.5
+Standard standard decent okay okay satisfactory mediocre normal fine.,Neutral,2.6
+Normal standard okay fine typical regular mediocre.,Neutral,3.9
+Okay regular fine standard mediocre satisfactory satisfactory average.,Neutral,2.8
+Delicious friendly friendly delicious delicious amazing great spacious spacious amazing.,Positive,4.2
+Okay typical okay okay decent mediocre typical fine normal.,Neutral,2.7
+Comfortable perfect great great delicious great amazing amazing great great.,Positive,4.6
+Smelly terrible uncomfortable bad rude smelly.,Negative,1.3
+Great great great clean perfect comfortable friendly amazing clean amazing.,Positive,4.2
+Slow rude terrible rude bad smelly terrible bad uncomfortable smelly.,Negative,1.1
+Okay normal average decent mediocre regular mediocre.,Neutral,2.7
+Typical normal fine okay standard standard regular okay decent.,Neutral,3.4
+Fine mediocre standard decent normal decent satisfactory.,Neutral,3.5
+Spacious comfortable great excellent clean delicious friendly perfect amazing.,Positive,4.4
+Typical normal regular fine average.,Neutral,3.2
+Noisy bad slow rude smelly slow uncomfortable terrible.,Negative,2.0
+Dirty rude worst worst noisy.,Negative,1.0
+Dirty slow uncomfortable dirty smelly worst uncomfortable uncomfortable terrible slow.,Negative,1.5
+Bad cold slow uncomfortable rude terrible dirty bad rude noisy.,Negative,2.5
+Okay satisfactory standard mediocre fine decent fine mediocre regular.,Neutral,3.4
+Great great clean helpful helpful comfortable great amazing spacious clean.,Positive,4.3
+Standard average average standard decent normal fine okay okay.,Neutral,3.3
+Worst uncomfortable smelly slow dirty slow.,Negative,1.5
+Comfortable clean spacious friendly friendly amazing.,Positive,4.5
+Friendly spacious excellent amazing comfortable helpful.,Positive,4.1
+Comfortable amazing comfortable perfect excellent.,Positive,4.1
+Regular average decent satisfactory average.,Neutral,2.8
+Excellent delicious excellent helpful perfect spacious friendly.,Positive,4.9
+Standard average mediocre regular mediocre average regular.,Neutral,3.6
+Mediocre decent average average okay decent fine mediocre typical.,Neutral,2.8
+Cold terrible smelly worst bad terrible smelly dirty cold noisy.,Negative,1.3
+Dirty smelly dirty slow bad bad uncomfortable.,Negative,2.1
+Amazing amazing great comfortable amazing spacious.,Positive,4.2
+Slow cold slow worst rude.,Negative,1.4
+Uncomfortable uncomfortable terrible bad bad slow slow noisy.,Negative,2.4
+Cold worst slow worst bad bad noisy.,Negative,1.4
+Clean helpful great perfect friendly.,Positive,4.7
+Fine mediocre normal okay average.,Neutral,3.9
+Slow cold cold terrible cold slow worst uncomfortable bad dirty.,Negative,1.6
+Slow uncomfortable uncomfortable cold uncomfortable dirty dirty.,Negative,1.0
+Typical mediocre normal okay normal regular.,Neutral,2.9
+Noisy terrible bad uncomfortable noisy bad smelly rude dirty noisy.,Negative,2.2
+Perfect delicious amazing perfect great.,Positive,4.9
+Standard okay mediocre average satisfactory regular satisfactory normal standard.,Neutral,3.6
+Clean perfect helpful perfect clean delicious.,Positive,4.1
+Terrible smelly smelly worst cold terrible.,Negative,2.2
+Standard decent mediocre mediocre okay satisfactory regular.,Neutral,3.8
+Normal decent mediocre typical okay regular okay.,Neutral,3.4
+Delicious perfect amazing excellent friendly amazing great amazing clean delicious.,Positive,4.9
+Uncomfortable smelly noisy bad dirty smelly.,Negative,2.2
+Excellent friendly perfect spacious great clean amazing.,Positive,4.7
+Okay normal fine normal satisfactory.,Neutral,3.4
+Terrible slow noisy smelly dirty dirty cold uncomfortable noisy.,Negative,1.5
+Delicious delicious great comfortable amazing helpful.,Positive,4.2
+Okay decent decent standard satisfactory typical.,Neutral,3.4
+Spacious excellent comfortable great amazing amazing clean excellent.,Positive,4.3
+Friendly excellent spacious delicious perfect perfect perfect perfect great spacious.,Positive,4.9
+Excellent delicious spacious spacious clean great friendly comfortable friendly.,Positive,5.0
+Excellent excellent helpful comfortable spacious amazing clean.,Positive,4.8
+Regular decent fine decent average decent mediocre.,Neutral,2.7
+Typical average fine standard okay.,Neutral,3.0
+Perfect spacious amazing amazing spacious.,Positive,4.1
+Perfect comfortable amazing clean delicious.,Positive,4.7
+Decent okay mediocre fine mediocre mediocre.,Neutral,3.6
+Mediocre standard okay mediocre normal satisfactory typical standard satisfactory mediocre.,Neutral,3.8
+Uncomfortable smelly cold noisy smelly terrible bad cold.,Negative,1.7
+Noisy cold terrible uncomfortable uncomfortable.,Negative,2.4
+Worst dirty rude cold slow bad smelly dirty slow cold.,Negative,2.3
+Fine normal typical okay satisfactory okay regular standard.,Neutral,3.0
+Okay okay normal mediocre typical fine okay.,Neutral,3.7
+Slow terrible dirty dirty terrible noisy uncomfortable noisy.,Negative,1.6
+Fine normal normal normal average standard fine typical.,Neutral,3.0
+Uncomfortable uncomfortable smelly cold smelly worst bad uncomfortable.,Negative,2.0
+Noisy bad rude rude worst.,Negative,1.5
+Delicious comfortable amazing great excellent.,Positive,4.6
+Comfortable friendly helpful friendly clean clean.,Positive,4.6
+Decent normal okay average typical standard.,Neutral,3.3
+Fine decent satisfactory regular okay normal fine standard satisfactory.,Neutral,3.1
+Regular decent okay decent normal standard average.,Neutral,3.3
+Average fine satisfactory okay mediocre fine decent.,Neutral,3.4
+Slow uncomfortable bad cold cold bad terrible smelly worst cold.,Negative,1.8
+Clean spacious spacious spacious amazing friendly friendly spacious.,Positive,4.4
+Regular satisfactory satisfactory average okay decent mediocre.,Neutral,2.6
+Regular mediocre typical normal mediocre normal.,Neutral,3.4
+Great amazing amazing excellent helpful perfect excellent.,Positive,4.2
+Okay typical average mediocre satisfactory fine mediocre mediocre.,Neutral,3.4
+Friendly excellent great great excellent great.,Positive,4.8
+Cold uncomfortable worst noisy worst noisy bad worst.,Negative,1.8
+Cold terrible dirty slow dirty worst bad cold uncomfortable.,Negative,1.8
+Fine fine decent standard normal.,Neutral,3.8
+Normal normal typical typical decent normal standard.,Neutral,3.7
+Worst slow dirty rude noisy rude uncomfortable.,Negative,2.4
+Helpful excellent great amazing comfortable spacious clean helpful.,Positive,4.8
+Average normal mediocre mediocre satisfactory decent standard satisfactory decent.,Neutral,2.7
+Delicious comfortable excellent excellent comfortable helpful.,Positive,4.1
+Dirty cold bad worst bad rude worst worst worst smelly.,Negative,1.8
+Standard normal average average regular satisfactory normal average.,Neutral,2.9
+Standard standard mediocre standard typical okay.,Neutral,3.2
+Worst smelly uncomfortable smelly noisy terrible terrible uncomfortable.,Negative,1.6
+Noisy slow smelly rude terrible.,Negative,1.8
+Perfect comfortable delicious amazing excellent.,Positive,4.7
+Regular regular regular okay decent regular decent.,Neutral,3.5
+Fine mediocre decent average average average fine decent fine.,Neutral,3.3
+Decent okay standard regular standard okay satisfactory.,Neutral,3.7
+Average standard average satisfactory standard typical mediocre typical normal standard.,Neutral,3.2
+Mediocre satisfactory mediocre standard mediocre standard okay regular decent regular.,Neutral,3.8
+Fine standard decent normal regular okay okay satisfactory decent okay.,Neutral,2.7
+Delicious great great excellent spacious helpful delicious comfortable friendly.,Positive,5.0
+Satisfactory mediocre standard fine regular.,Neutral,3.5
+Spacious comfortable friendly comfortable friendly amazing.,Positive,4.4
+Satisfactory average mediocre mediocre typical mediocre decent normal average.,Neutral,2.9
+Slow terrible rude smelly dirty rude terrible rude.,Negative,1.7
+Okay satisfactory average average fine.,Neutral,2.9
+Uncomfortable worst cold cold noisy noisy bad.,Negative,1.2
+Excellent helpful great clean comfortable perfect clean perfect perfect.,Positive,4.6
+Spacious perfect delicious excellent great excellent.,Positive,4.5
+Spacious excellent great delicious perfect amazing friendly excellent amazing.,Positive,4.7
+Terrible terrible dirty dirty noisy dirty cold uncomfortable.,Negative,2.4
+Terrible uncomfortable bad bad cold dirty smelly rude bad.,Negative,1.8
+Normal satisfactory standard mediocre fine decent typical.,Neutral,3.4
+Excellent clean clean delicious clean perfect helpful clean great friendly.,Positive,4.1
+Great helpful helpful perfect great spacious great excellent perfect.,Positive,4.7
+Cold rude bad noisy rude bad dirty.,Negative,1.6
+Typical typical regular fine typical.,Neutral,3.9
+Delicious spacious excellent excellent clean amazing helpful amazing clean.,Positive,4.8
+Clean clean perfect great delicious delicious perfect.,Positive,4.5
+Satisfactory mediocre regular regular decent standard regular average.,Neutral,2.8
+Clean amazing amazing helpful excellent clean excellent delicious friendly.,Positive,4.9
+Regular average regular normal normal satisfactory regular fine normal.,Neutral,3.6
+Noisy cold dirty uncomfortable bad noisy rude worst slow smelly.,Negative,1.3
+Uncomfortable uncomfortable noisy smelly terrible.,Negative,1.4
+Terrible uncomfortable worst noisy cold.,Negative,2.2
+Worst noisy cold bad worst.,Negative,1.3
+Great delicious friendly friendly helpful amazing great great delicious delicious.,Positive,4.9
+Friendly great excellent comfortable clean.,Positive,4.4
+Okay fine average satisfactory typical average standard decent.,Neutral,2.7
+Slow terrible bad cold worst noisy.,Negative,2.2
+Delicious perfect perfect excellent amazing helpful comfortable amazing.,Positive,4.4
+Helpful helpful amazing helpful excellent friendly spacious delicious clean.,Positive,4.5
+Comfortable delicious delicious excellent amazing clean spacious friendly clean.,Positive,4.1
+Amazing excellent comfortable spacious perfect spacious helpful.,Positive,4.0
+Worst rude cold worst worst slow noisy uncomfortable cold.,Negative,2.0
+Rude bad bad slow cold bad dirty noisy bad cold.,Negative,1.8
+Cold worst slow worst cold smelly worst rude bad bad.,Negative,1.9
+Smelly uncomfortable terrible dirty dirty dirty smelly.,Negative,2.2
+Clean great helpful delicious great great spacious excellent friendly friendly.,Positive,4.6
+Decent satisfactory okay normal fine satisfactory.,Neutral,2.8
+Comfortable spacious helpful comfortable helpful clean spacious friendly friendly friendly.,Positive,4.4
+Uncomfortable smelly uncomfortable bad dirty cold terrible slow uncomfortable.,Negative,2.4
+Noisy uncomfortable rude worst terrible bad.,Negative,2.2
+Amazing comfortable great great helpful perfect excellent.,Positive,4.6
+Standard okay okay mediocre standard normal mediocre.,Neutral,2.9
+Okay okay standard mediocre fine average decent fine.,Neutral,3.0
+Uncomfortable uncomfortable smelly smelly rude terrible dirty smelly.,Negative,2.1
+Amazing helpful great spacious comfortable helpful clean perfect perfect.,Positive,4.9
+Comfortable clean amazing delicious comfortable helpful amazing perfect clean.,Positive,4.7
+Delicious excellent comfortable helpful delicious helpful excellent amazing clean.,Positive,4.8
+Clean spacious amazing amazing clean.,Positive,4.8
+Normal mediocre okay average decent standard satisfactory okay.,Neutral,2.8
+Cold worst smelly worst noisy worst smelly uncomfortable uncomfortable uncomfortable.,Negative,1.6
+Bad dirty slow uncomfortable smelly.,Negative,1.2
+Excellent great helpful great clean clean perfect.,Positive,4.2
+Decent typical mediocre typical fine typical typical normal average.,Neutral,3.7
+Dirty worst worst dirty smelly dirty.,Negative,1.7
+Uncomfortable terrible uncomfortable noisy cold worst rude dirty rude terrible.,Negative,1.8
+Rude terrible uncomfortable worst worst smelly.,Negative,1.3
+Excellent clean excellent helpful comfortable perfect friendly excellent.,Positive,4.3
+Slow terrible dirty slow rude dirty.,Negative,1.3
+Slow slow uncomfortable cold terrible noisy worst bad dirty.,Negative,1.3
+Mediocre typical decent okay normal fine mediocre standard.,Neutral,3.4
+Helpful clean spacious delicious delicious great excellent.,Positive,4.3
+Rude uncomfortable uncomfortable terrible rude terrible bad.,Negative,1.9
+Spacious perfect amazing comfortable clean great friendly excellent.,Positive,4.1
+Amazing comfortable helpful perfect friendly comfortable clean excellent friendly great.,Positive,4.1
+Mediocre standard normal regular typical mediocre average okay decent mediocre.,Neutral,3.0
+Slow dirty noisy noisy bad bad.,Negative,1.9
+Decent satisfactory okay decent normal okay okay fine standard.,Neutral,3.5
+Typical okay satisfactory average decent standard mediocre mediocre mediocre decent.,Neutral,3.2
+Worst noisy slow dirty smelly.,Negative,1.7
+Uncomfortable rude slow terrible terrible terrible worst.,Negative,2.1
+Uncomfortable noisy worst noisy noisy rude.,Negative,1.0
+Fine regular mediocre okay standard regular normal.,Neutral,3.0
+Friendly great great perfect excellent spacious helpful.,Positive,4.8
+Great delicious helpful great comfortable friendly comfortable great amazing.,Positive,4.6
+Perfect delicious comfortable amazing amazing delicious.,Positive,4.3
+Clean excellent comfortable perfect comfortable.,Positive,4.9
+Worst bad slow noisy worst slow uncomfortable bad.,Negative,2.2
+Amazing excellent clean clean amazing spacious great amazing clean.,Positive,4.3
+Rude dirty dirty terrible worst.,Negative,2.0
+Perfect comfortable clean clean excellent clean helpful.,Positive,4.6
+Helpful spacious perfect perfect clean.,Positive,4.4
+Normal regular mediocre mediocre standard regular normal.,Neutral,3.1
+Typical mediocre satisfactory fine fine average.,Neutral,3.0
+Standard average mediocre regular fine decent average.,Neutral,3.4
+Terrible worst smelly terrible dirty noisy.,Negative,1.7
+Friendly friendly excellent delicious perfect clean comfortable clean amazing.,Positive,4.8
+Helpful delicious helpful perfect clean excellent comfortable comfortable.,Positive,4.7
+Terrible dirty worst dirty cold dirty.,Negative,1.1
+Regular okay satisfactory decent satisfactory decent satisfactory normal.,Neutral,3.4
+Bad slow cold cold worst worst noisy.,Negative,1.4
+Standard mediocre average fine regular standard average standard regular.,Neutral,3.4
+Regular mediocre fine regular decent mediocre fine.,Neutral,3.5
+Perfect comfortable great excellent amazing perfect clean comfortable.,Positive,4.2
+Mediocre okay regular typical fine mediocre.,Neutral,3.2
+Terrible noisy smelly uncomfortable noisy bad.,Negative,1.3
+Amazing helpful great helpful delicious.,Positive,4.1
+Standard satisfactory fine fine decent average fine okay.,Neutral,3.1
+Regular standard mediocre typical regular fine.,Neutral,3.1
+Friendly friendly amazing delicious comfortable spacious excellent helpful perfect.,Positive,5.0
+Excellent friendly amazing clean comfortable excellent helpful excellent.,Positive,4.4
+Delicious excellent perfect great friendly spacious delicious.,Positive,4.3
+Decent regular typical okay mediocre.,Neutral,3.4
+Typical mediocre decent normal fine mediocre normal.,Neutral,2.7
+Terrible cold bad slow worst worst terrible rude uncomfortable uncomfortable.,Negative,2.4
+Excellent excellent excellent friendly amazing.,Positive,4.6
+Mediocre satisfactory mediocre decent mediocre fine.,Neutral,3.6
+Bad noisy slow terrible cold.,Negative,1.3
+Noisy smelly terrible cold uncomfortable slow bad.,Negative,1.6
+Bad terrible smelly cold dirty smelly.,Negative,1.6
+Average typical fine mediocre regular fine.,Neutral,3.7
+Standard typical typical mediocre fine.,Neutral,2.6
+Smelly cold noisy slow slow noisy.,Negative,1.5
+Delicious excellent excellent excellent comfortable perfect perfect perfect friendly clean.,Positive,5.0
+Uncomfortable noisy worst rude noisy dirty terrible smelly.,Negative,1.7
+Delicious excellent spacious friendly delicious amazing spacious perfect excellent.,Positive,4.4
+Excellent comfortable delicious spacious helpful.,Positive,4.1
+Regular satisfactory decent regular fine.,Neutral,3.9
+Smelly noisy noisy uncomfortable dirty noisy.,Negative,1.0
+Typical fine decent average satisfactory.,Neutral,3.6
+Satisfactory mediocre fine normal normal fine fine regular.,Neutral,3.6
+Worst dirty worst cold rude worst.,Negative,1.4
+Amazing excellent perfect comfortable spacious.,Positive,4.7
+Uncomfortable cold rude slow uncomfortable bad slow bad.,Negative,1.1
+Okay satisfactory mediocre decent standard average normal.,Neutral,2.9
+Satisfactory fine mediocre mediocre okay mediocre typical typical satisfactory okay.,Neutral,3.6
+Rude bad dirty noisy bad bad bad noisy noisy.,Negative,2.3
+Smelly worst cold rude smelly uncomfortable noisy noisy uncomfortable bad.,Negative,1.9
+Excellent perfect clean delicious perfect delicious spacious comfortable.,Positive,4.5
+Perfect clean perfect spacious excellent.,Positive,4.2
+Helpful delicious great excellent great clean.,Positive,4.1
+Noisy slow cold cold terrible dirty uncomfortable worst slow.,Negative,1.2
+Comfortable amazing excellent excellent perfect great excellent great excellent friendly.,Positive,4.2
+Satisfactory mediocre standard satisfactory typical satisfactory typical normal regular.,Neutral,3.0
+Bad smelly noisy worst rude worst uncomfortable noisy.,Negative,1.6
+Smelly bad cold dirty noisy smelly bad.,Negative,1.5
+Slow dirty terrible uncomfortable terrible rude dirty rude bad slow.,Negative,1.4
+Okay average okay decent average standard fine average normal satisfactory.,Neutral,3.3
+Bad smelly terrible noisy uncomfortable.,Negative,2.2
+Okay regular satisfactory normal satisfactory decent average.,Neutral,3.0
+Perfect perfect friendly friendly clean excellent comfortable spacious.,Positive,4.9
+Noisy slow slow smelly smelly.,Negative,2.3
+Comfortable helpful helpful perfect delicious friendly excellent.,Positive,4.2
+Helpful delicious friendly comfortable perfect amazing helpful excellent helpful.,Positive,4.8
+Smelly uncomfortable slow cold smelly dirty worst.,Negative,1.9
+Satisfactory fine regular regular okay.,Neutral,3.3
+Regular decent normal normal okay.,Neutral,3.1
+Normal average standard standard normal typical.,Neutral,3.3
+Bad uncomfortable noisy dirty smelly worst terrible dirty.,Negative,1.6
+Uncomfortable worst cold noisy slow uncomfortable uncomfortable.,Negative,1.8
+Standard standard standard regular regular okay regular regular.,Neutral,3.4
+Amazing great great spacious comfortable.,Positive,4.7
+Fine typical fine mediocre normal fine mediocre typical decent standard.,Neutral,3.3
+Mediocre decent satisfactory decent mediocre regular fine mediocre.,Neutral,3.5
+Typical okay okay fine regular regular regular.,Neutral,2.8
+Terrible noisy slow rude rude smelly uncomfortable rude terrible slow.,Negative,1.3
+Smelly cold smelly cold uncomfortable uncomfortable dirty.,Negative,2.2
+Spacious perfect helpful delicious delicious delicious.,Positive,4.3
+Uncomfortable cold cold terrible smelly worst.,Negative,1.0
+Normal mediocre decent satisfactory average standard.,Neutral,2.8
+Worst terrible slow dirty dirty slow.,Negative,1.3
+Great perfect amazing clean perfect delicious helpful excellent amazing.,Positive,5.0
+Cold bad cold smelly noisy.,Negative,1.9
+Spacious helpful friendly comfortable excellent helpful helpful friendly.,Positive,4.9
+Standard standard standard normal decent.,Neutral,3.3
+Fine average fine satisfactory regular regular.,Neutral,3.2
+Great great great helpful friendly amazing great excellent helpful.,Positive,4.3
+Dirty rude bad terrible rude uncomfortable.,Negative,1.9
+Okay mediocre typical typical regular decent okay okay standard fine.,Neutral,2.8
+Friendly delicious perfect friendly amazing perfect perfect comfortable perfect.,Positive,4.9
+Standard standard fine normal satisfactory average normal satisfactory mediocre standard.,Neutral,3.7
+Noisy smelly bad smelly noisy rude dirty noisy noisy.,Negative,1.5
+Terrible smelly smelly cold bad dirty.,Negative,2.4
+Terrible terrible cold cold uncomfortable smelly rude bad smelly.,Negative,2.2
+Clean helpful comfortable excellent helpful helpful.,Positive,4.7
+Normal average decent standard fine typical okay.,Neutral,2.8
+Smelly bad noisy bad noisy smelly slow bad cold dirty.,Negative,1.7
+Rude cold uncomfortable bad smelly.,Negative,1.8
+Great helpful spacious friendly perfect great.,Positive,4.2
+Friendly spacious excellent delicious comfortable clean great helpful perfect great.,Positive,4.1
+Cold noisy uncomfortable slow cold rude uncomfortable cold uncomfortable terrible.,Negative,2.2
+Friendly friendly excellent amazing delicious helpful spacious friendly delicious clean.,Positive,4.1
+Normal typical average regular regular mediocre decent regular.,Neutral,3.4
+Great spacious comfortable excellent friendly spacious.,Positive,4.9
+Perfect great helpful great spacious comfortable.,Positive,4.9
+Comfortable friendly amazing spacious clean spacious excellent helpful friendly.,Positive,4.3
+Regular average okay okay satisfactory regular typical mediocre.,Neutral,3.7
+Friendly amazing excellent friendly clean.,Positive,4.0
+Normal normal typical standard satisfactory typical.,Neutral,2.6
+Uncomfortable smelly bad cold cold slow terrible slow.,Negative,1.9
+Cold dirty bad rude bad noisy noisy worst worst.,Negative,1.5
+Uncomfortable dirty noisy terrible noisy terrible dirty.,Negative,1.6
+Mediocre mediocre average fine decent.,Neutral,3.3
+Bad bad uncomfortable bad smelly dirty rude.,Negative,1.3
+Okay typical okay satisfactory decent typical normal.,Neutral,2.9
+Clean great perfect amazing comfortable great perfect spacious.,Positive,4.5
+Comfortable delicious spacious amazing friendly spacious amazing helpful amazing delicious.,Positive,4.8
+Delicious friendly amazing excellent perfect great perfect.,Positive,4.6
+Smelly dirty bad noisy noisy uncomfortable uncomfortable.,Negative,1.4
+Regular satisfactory regular regular satisfactory mediocre.,Neutral,3.2
+Comfortable clean perfect amazing perfect spacious.,Positive,4.2
+Standard standard decent average standard.,Neutral,2.7
+Mediocre average fine normal standard typical normal average average.,Neutral,3.6
+Mediocre regular decent fine fine average regular regular typical standard.,Neutral,2.9
+Comfortable excellent friendly great amazing perfect friendly.,Positive,4.2
+Mediocre standard normal okay decent typical regular standard.,Neutral,3.5
+Friendly helpful clean clean helpful delicious.,Positive,4.6
+Normal standard fine fine average standard mediocre.,Neutral,3.4
+Great amazing great great comfortable.,Positive,4.2
+Typical standard regular decent mediocre mediocre okay typical okay decent.,Neutral,2.9
+Satisfactory typical standard average fine.,Neutral,2.9
+Delicious amazing perfect perfect great delicious perfect clean.,Positive,4.2
+Terrible slow slow noisy worst.,Negative,2.0
+Typical fine standard fine okay normal.,Neutral,3.7
+Great excellent comfortable delicious comfortable comfortable.,Positive,4.7
+Okay average mediocre typical okay okay regular standard fine.,Neutral,3.6
+Terrible terrible smelly dirty rude uncomfortable dirty rude smelly bad.,Negative,1.6
+Slow slow rude terrible dirty cold bad noisy.,Negative,2.0
+Slow worst dirty bad uncomfortable dirty.,Negative,1.5
+Delicious friendly great excellent amazing clean comfortable clean.,Positive,4.5
+Spacious delicious helpful great comfortable spacious helpful.,Positive,4.5
+Typical regular standard okay normal regular okay average.,Neutral,2.8
+Terrible smelly bad bad smelly slow noisy.,Negative,1.6
+Bad dirty cold cold bad terrible.,Negative,2.4
+Friendly amazing friendly delicious perfect.,Positive,4.2
+Comfortable helpful amazing spacious friendly spacious.,Positive,4.1
+Average standard decent mediocre typical okay standard.,Neutral,3.1
+Fine okay average average regular fine average mediocre mediocre.,Neutral,3.6
+Delicious spacious amazing friendly friendly amazing comfortable comfortable.,Positive,4.6
+Delicious excellent perfect excellent clean clean friendly clean excellent perfect.,Positive,4.7
+Typical fine mediocre regular regular decent decent.,Neutral,2.8
+Satisfactory decent satisfactory normal typical average normal.,Neutral,3.4
+Average fine standard standard regular mediocre standard mediocre.,Neutral,3.0
+Noisy noisy rude uncomfortable worst uncomfortable dirty slow rude cold.,Negative,2.3
+Fine typical normal average satisfactory standard satisfactory.,Neutral,3.4
+Great helpful friendly comfortable amazing perfect great perfect comfortable comfortable.,Positive,4.2
+Satisfactory average average fine satisfactory.,Neutral,2.7
+Satisfactory okay decent average standard typical typical.,Neutral,2.7
+Decent standard mediocre fine average okay normal standard satisfactory regular.,Neutral,3.1
+Normal decent typical okay fine.,Neutral,2.9
+Perfect amazing delicious clean comfortable.,Positive,4.6
+Noisy terrible dirty uncomfortable rude slow dirty smelly cold slow.,Negative,1.7
+Noisy worst smelly uncomfortable rude terrible smelly uncomfortable.,Negative,1.4
+Helpful helpful comfortable delicious clean.,Positive,4.1
+Clean amazing friendly excellent excellent.,Positive,4.1
+Amazing amazing amazing delicious clean perfect spacious delicious helpful perfect.,Positive,4.9
+Cold bad bad slow cold.,Negative,1.4
+Standard standard normal mediocre okay okay.,Neutral,3.4
+Average decent mediocre average standard mediocre typical typical.,Neutral,3.7
+Amazing friendly excellent excellent comfortable excellent perfect.,Positive,4.6
+Mediocre normal satisfactory regular normal average.,Neutral,3.7
+Regular decent decent mediocre mediocre regular mediocre.,Neutral,3.1
+Bad terrible worst terrible slow dirty terrible.,Negative,2.4
+Delicious comfortable friendly clean excellent spacious excellent amazing great comfortable.,Positive,4.1
+Smelly slow bad noisy dirty cold slow.,Negative,1.2
+Normal normal fine standard satisfactory fine regular normal satisfactory mediocre.,Neutral,3.5
+Standard regular satisfactory normal fine mediocre okay normal.,Neutral,3.8
+Delicious excellent perfect amazing delicious spacious friendly amazing.,Positive,4.8
+Regular normal mediocre decent standard.,Neutral,2.7
+Dirty cold uncomfortable smelly uncomfortable.,Negative,1.4
+Worst terrible noisy terrible slow smelly.,Negative,2.4
+Helpful amazing friendly friendly clean comfortable amazing great great spacious.,Positive,4.3
+Comfortable clean perfect helpful helpful excellent clean.,Positive,4.8
+Average satisfactory typical average mediocre fine fine decent satisfactory.,Neutral,3.7
+Slow smelly worst bad uncomfortable slow rude bad rude.,Negative,1.7
+Mediocre regular normal standard satisfactory mediocre average.,Neutral,3.1
+Worst bad uncomfortable rude terrible slow terrible terrible cold terrible.,Negative,1.7
+Normal satisfactory standard normal standard.,Neutral,2.9
+Clean amazing delicious spacious friendly clean.,Positive,4.9
+Average fine regular average satisfactory.,Neutral,3.2
+Typical mediocre satisfactory normal typical standard mediocre average.,Neutral,3.7
+Slow slow terrible worst cold.,Negative,1.2
+Satisfactory mediocre decent normal okay fine.,Neutral,3.9
+Friendly comfortable great great clean excellent comfortable comfortable perfect.,Positive,4.4
+Rude rude smelly dirty bad uncomfortable uncomfortable dirty uncomfortable uncomfortable.,Negative,1.1
+Spacious helpful great great great helpful helpful.,Positive,4.0
+Noisy cold bad worst dirty dirty rude.,Negative,2.1
+Perfect clean helpful comfortable spacious spacious clean comfortable helpful amazing.,Positive,4.7
+Rude worst terrible uncomfortable smelly smelly bad smelly worst.,Negative,2.2
+Clean great helpful perfect comfortable excellent perfect clean excellent clean.,Positive,4.1
+Okay decent standard satisfactory typical satisfactory.,Neutral,2.6
+Spacious friendly comfortable excellent great excellent clean helpful comfortable.,Positive,4.5
+Noisy smelly dirty smelly rude dirty noisy smelly slow.,Negative,1.6
+Cold uncomfortable bad slow bad worst worst worst slow slow.,Negative,1.7
+Decent standard standard satisfactory normal satisfactory fine okay mediocre average.,Neutral,3.9
+Slow terrible worst noisy bad.,Negative,2.5
+Delicious amazing clean excellent excellent spacious excellent perfect delicious amazing.,Positive,4.9
+Fine normal average mediocre decent mediocre average mediocre decent typical.,Neutral,3.6
+Standard average mediocre fine satisfactory standard satisfactory typical.,Neutral,3.1
+Helpful helpful delicious friendly amazing friendly amazing excellent.,Positive,4.4
+Okay mediocre typical okay typical okay mediocre.,Neutral,3.3
+Slow smelly worst terrible noisy noisy.,Negative,2.2
+Dirty noisy slow slow slow cold slow terrible.,Negative,1.1
+Decent decent satisfactory normal typical regular normal average fine decent.,Neutral,3.2
